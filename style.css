@@ -73,13 +73,13 @@ text-align: right;
 }
 .text-box p{
 	margin: 10px 0 40px;
-	font-size: 17px;
+	font-size: 27px;
 	color: #fff;
 }
 .hero-btn{
 	display: inline-block;
 	text-decoration: none;
-	color: #fff;
+	color: green;
 	border: 1px solid #fff;
 	padding: 12px 34px;
 	font-size: 15px;
@@ -106,6 +106,7 @@ text-align: right;
 .h1{
 	font-size: 36px;
 	font-weight: 600;
+	font_family: nervana
 }
 .h2{
 	font-size: 20px;
